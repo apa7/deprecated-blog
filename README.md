@@ -1,4 +1,4 @@
-#d4rkb1ue 的 [博客](https://github.com/d4rkb1ue/blog) [简历](http://susheng.org/)
+#d4rkb1ue 的 [博客](https://github.com/d4rkb1ue/blog)
 
 你好，这里是d4rkb1ue的博客。请直接访问链接，或者执行仓库内搜索。
 
