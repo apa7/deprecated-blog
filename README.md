@@ -2,7 +2,7 @@
 
 你好，这里是d4rkb1ue的博客。请直接访问链接，或者执行仓库内搜索。
 
-[关于这个博客](https://github.com/d4rkb1ue/blog/blob/master/tools/about-this-blog.md)
+[关于这个博客](https://github.com/d4rkb1ue/blog/blob/master/Sexy/about-this-blog.md)
 
 目前仅包含2016.3月起的日志。
 
@@ -50,9 +50,9 @@
 
 ##性感工具
 
-[Git 初步入门](https://github.com/d4rkb1ue/blog/blob/master/tools/git-init.md)
+[Git 初步入门](https://github.com/d4rkb1ue/blog/blob/master/Sexy/git-init.md)
 
-[关于这个博客](https://github.com/d4rkb1ue/blog/blob/master/tools/about-this-blog.md)
+[关于这个博客](https://github.com/d4rkb1ue/blog/blob/master/Sexy/about-this-blog.md)
 
 ##正在做的项目-众客 Joker.js
 
