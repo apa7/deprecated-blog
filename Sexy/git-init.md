@@ -135,7 +135,13 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 GitHub，打开“Account settings”，“SSH Keys”,“Add SSH Key”，填上任意Title，在Key文本框里粘贴`~/.ssh/id_rsa.pub`的内容
 
 ###新建远程库
-GitHub，“Create a new repo”。按照github的指示操作。
+~~GitHub，“Create a new repo”。按照github的指示操作。~~
+
+不要使用默认的HTTPS的同步方式，这个方式不支持两步验证，应使用 SSH式的，可以改为：
+```
+git remote set-url origin git@github.com:username/repo.git
+```
+
 
 ###推送到远程
 ```
@@ -145,6 +151,7 @@ git push origin master
 推送的时候，完全将远程和本地的库一致。无需每次`commit`后都`push`。只要`push`一次，全部的版本都会存在。
 
 ###部署到服务器
+在远程服务器执行
 ```
 git clone https://github.com/d4rkb1ue/joker.git
 ```
