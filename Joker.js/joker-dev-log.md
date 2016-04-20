@@ -93,3 +93,9 @@ function User(user){
 ##Tips
 
 **每次都要重启下ubuntu!不然不更新时间！**
+
+---
+2016.4.20
+
+发现 redirect('back') 的一个 bug。
+如果用户刷新了一遍登陆界面，那么back也会再度返回登陆界面。

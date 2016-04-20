@@ -12,7 +12,7 @@
 
 [廖雪峰 JavaScript 教程-浏览器对象, DOM, 操作表单](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/lxf-javascript-lesson-1.md)
 
-[#廖雪峰 JavaScript 教程-AJAX, 跨域访问, CORS, Promise](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/lxf-javascript-lesson-2.md)
+[廖雪峰 JavaScript 教程-AJAX, 跨域访问, CORS, Promise](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/lxf-javascript-lesson-2.md)
 
 
 [vs code 调试简单指南](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/vscode-debug-example.js)
