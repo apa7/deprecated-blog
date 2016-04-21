@@ -1,6 +1,19 @@
 #Joker 工作日志
 
 ---
+#学完了HTML/CSS/JS/JQuery,继续开发
+
+2016/4/21
+---
+
+从今天起最新的在最开头
+
+#TODO
+1. 密码加盐
+2. [支持多种登录方式](http://www.liaoxuefeng.com/article/001461119866914f84275c4a5034ffeb47405caa205e335000) 
+3. 使用https
+
+---
 #Joker Start! 2016/4/5
 ---
 #TODO:

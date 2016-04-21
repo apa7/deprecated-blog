@@ -9,6 +9,11 @@
 
 ##JavaScript
 
+[廖雪峰 JavaScript 教程-JQuery](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/lxf-javascript-lesson-3.md)
+
+
+[JavaScript Array.prototype.sort() 可以 call 哪些对象？](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/array-prototype-sort-call-cannot-apply-on-dom.md)
+
 
 [廖雪峰 JavaScript 教程-浏览器对象, DOM, 操作表单](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/lxf-javascript-lesson-1.md)
 
@@ -16,6 +21,7 @@
 
 
 [vs code 调试简单指南](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/vscode-debug-example.js)
+
 
 [JS 继承机制 猜想和整理1 构造函数](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/js-inherit-summary-1.md)
 
@@ -25,7 +31,7 @@
 
 [JS 继承机制 猜想和整理4 class继承](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/js-inherit-summary-4.md)
 
-[JavaScript Array.prototype.sort() 可以 call 哪些对象？](https://github.com/d4rkb1ue/blog/blob/master/JavaScript/array-prototype-sort-call-cannot-apply-on-dom.md)
+
 
 ##Node.js
 
@@ -55,7 +61,6 @@
 
 [Git 初步入门](https://github.com/d4rkb1ue/blog/blob/master/Sexy/git-init.md)
 
-[关于这个博客](https://github.com/d4rkb1ue/blog/blob/master/Sexy/about-this-blog.md)
 
 ##正在做的项目-众客 Joker.js
 
