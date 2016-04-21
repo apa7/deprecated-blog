@@ -1,3 +1,11 @@
+#已废除
+
+直接用github做BLOG还是太嫩了点。
+访问速度，附加功能，完全没有。
+
+Blog还是和Note分开比较好。我一把抓想用Git同时做Blog和Note的管理还是不太现实。
+
+
 #d4rkb1ue 的 [博客](https://github.com/d4rkb1ue/blog)
 
 你好，这里是d4rkb1ue的博客。请直接访问链接，或者执行仓库内搜索。
